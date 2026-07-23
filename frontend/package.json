@@ -59,7 +59,7 @@
     "ngy-cookie": "^6.0.1000",
     "postcss": "^8.5.20",
     "rxjs": "7.8.2",
-    "sass": "^1.101.3",
+    "sass": "^1.101.6",
     "snarkdown": "^1.2.2",
     "socket.io-client": "^4.8.3",
     "solidity-browser-compiler": "^1.1.0",
